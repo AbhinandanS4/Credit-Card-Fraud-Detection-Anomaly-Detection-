@@ -21,6 +21,13 @@ StandardScaler: to normalize feature scales.
 PCA (Principal Component Analysis): for dimensionality reduction.
 
 Isolation Forest & Local Outlier Factor: for anomaly/outlier detection.
+6. Unsupervised Learning
+Understanding how to detect patterns in data without labeled outcomes.
 
-6. Basic Statistics and Linear Algebra
-Understanding data distributions, variance, and eigenvectors (for PCA).
+Applying clustering and anomaly detection techniques.
+
+Evaluating models that learn from inherent data structure instead of target labels.
+
+7. Basic Statistics and Linear Algebra
+Concepts like mean, standard deviation, covariance, and eigenvalues (for PCA understanding).
+
